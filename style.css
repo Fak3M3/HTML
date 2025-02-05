@@ -4,9 +4,6 @@
     margin: 0%;
 } */
 
-body{
-
-}
 
 h1{
     color:purple;
@@ -64,3 +61,9 @@ div{
     width: 20px;
     height: 20px;
 }
+
+.alt:hover{
+    background-color: cadetblue;
+    scale: 1.5;
+}
+
